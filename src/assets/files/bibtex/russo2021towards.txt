@@ -1,0 +1,8 @@
+@inproceedings{russo2021towards,
+  title={Towards optimal attacks on reinforcement learning policies},
+  author={Russo, Alessio and Proutiere, Alexandre},
+  booktitle={2021 American Control Conference (ACC)},
+  pages={4561--4567},
+  year={2021},
+  organization={IEEE}
+}

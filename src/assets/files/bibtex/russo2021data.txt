@@ -1,0 +1,8 @@
+@inproceedings{russo2021data,
+  title={Data-driven control and data-poisoning attacks in buildings: the kth live-in lab case study},
+  author={Russo, Alessio and Molinari, Marco and Proutiere, Alexandre},
+  booktitle={2021 29th Mediterranean Conference on Control and Automation (MED)},
+  pages={53--58},
+  year={2021},
+  organization={IEEE}
+}

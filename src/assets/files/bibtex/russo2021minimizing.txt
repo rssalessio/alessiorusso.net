@@ -1,0 +1,8 @@
+@inproceedings{russo2021minimizing,
+  title={Minimizing Information Leakage of Abrupt Changes in Stochastic Systems},
+  author={Russo, Alessio and Proutiere, Alexandre},
+  booktitle={2021 60th IEEE Conference on Decision and Control (CDC)},
+  pages={2750--2757},
+  year={2021},
+  organization={IEEE}
+}

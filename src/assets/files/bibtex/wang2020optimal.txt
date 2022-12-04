@@ -1,0 +1,8 @@
+@inproceedings{wang2020optimal,
+  title={Optimal algorithms for multiplayer multi-armed bandits},
+  author={Wang, Po-An and Proutiere, Alexandre and Ariu, Kaito and Jedra, Yassir and Russo, Alessio},
+  booktitle={International Conference on Artificial Intelligence and Statistics},
+  pages={4120--4129},
+  year={2020},
+  organization={PMLR}
+}

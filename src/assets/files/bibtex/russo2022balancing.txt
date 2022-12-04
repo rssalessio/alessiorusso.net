@@ -1,0 +1,8 @@
+@inproceedings{russo2022balancing,
+  title={Balancing detectability and performance of attacks on the control channel of Markov Decision Processes},
+  author={Russo, Alessio and Proutiere, Alexandre},
+  booktitle={2022 American Control Conference (ACC)},
+  pages={2843--2850},
+  year={2022},
+  organization={IEEE}
+}

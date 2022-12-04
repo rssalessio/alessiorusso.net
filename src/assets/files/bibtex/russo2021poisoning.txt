@@ -1,0 +1,8 @@
+@inproceedings{russo2021poisoning,
+  title={Poisoning attacks against data-driven control methods},
+  author={Russo, Alessio and Proutiere, Alexandre},
+  booktitle={2021 American Control Conference (ACC)},
+  pages={3234--3241},
+  year={2021},
+  organization={IEEE}
+}

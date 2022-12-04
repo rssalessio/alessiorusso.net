@@ -42,7 +42,7 @@ function bibClickFunc () {
     let thisId = this.id.split('-').at(-1);
     let bibBoxContent = document.getElementById("bib-box-content-" + thisId);
     if (bibBoxContent.style.display === 'none') {
-        fetch('bibs/' + thisId + '.txt')
+        fetch('assets/files/bibtex/' + thisId + '.txt')
             .then(response => response.text())
             .then((data) => {
                 bibBoxContent.innerHTML = String(data);

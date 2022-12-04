@@ -1,0 +1,6 @@
+@inproceedings{russo2017adaptive,
+  title={Adaptive augmentation of the attitude control system for a multirotor UAV},
+  author={Russo, Alessio},
+  booktitle={7 th EUROPEAN CONFERENCE FOR AEROSPACE SCIENCES},
+  year={2017}
+}

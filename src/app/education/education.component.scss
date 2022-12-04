@@ -1,0 +1,33 @@
+.exp-body {
+    padding-bottom: 20px;
+}
+
+.exp-body .exp-item {
+    display: flex;
+    margin-bottom: 20px;
+    font-size: medium;
+}
+
+.exp-item-left {
+    width: 25%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.exp-item-right {
+    width: 100%;
+    margin-left: 0px;
+}
+
+.exp-item-right-content {
+    width: 90%;
+    top: 50%;
+    position: relative;
+    transform: translateY(-50%);
+}
+
+.exp-item-title {
+    font-weight: bold;
+    font-size: medium;
+}
